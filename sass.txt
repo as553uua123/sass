@@ -1,0 +1,33 @@
+SAAC  NODE.JS裡面有兩個版本
+LTS版本較穩定
+
+
+
+sass跟scss寫法不相容
+
+sass 巢狀寫法
+
+
+_module.scss  加_    
+可能是一個模組 放所有變數 然後在style.scss檔案裏面引入  語法:@import 'module';
+不用加_ 底線
+
+  
+
+
+
+變數拉到import上面
+sass  import其他sass
+
+sass自動產生的map檔
+
+所有人使用同一變數
+偽元素寫法  &:hover{}
+@extend
+可以運算
+
+
+
+
+
+extension_dir
